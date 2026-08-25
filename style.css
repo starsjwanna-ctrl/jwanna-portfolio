@@ -21,5 +21,7 @@ border: none;
 }
 button:hover {
   background-color: #5148d9;
+  transform: scale(1.1);
 }
+
 
