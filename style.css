@@ -19,3 +19,7 @@ border: none;
   border-radius: px;
   cursor: pointer;
 }
+button:hover {
+  background-color: #5148d9;
+}
+
