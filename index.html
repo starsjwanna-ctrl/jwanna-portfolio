@@ -15,10 +15,12 @@
     <script>
       const languageButton = document.getElementById("languageButton");
       const startButton = document.getlEementById("startButton");
+      const content =document.getElementById("content");
       startButton.addEventListener("click", function() {
         alert("Welcome to UniMate!");
       });
       languageButton.addEventListener("click", function() {
+      content.textContent = "كل ما تحتاجينه للجامعة في مكان واحد";
         languageButton.textContent = "Englih | العربية";
       });
     </script>
