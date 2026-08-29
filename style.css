@@ -1,7 +1,7 @@
 body  {
   background-color: #f5f3ff;
   color: #222;
-  font-family: arial, sans-serif;
+  font-family: Arial, sans-serif;
   padding: 40px;
 }
 h1 {
@@ -16,7 +16,7 @@ button {
   color: white;
 border: none;
   padding: 12px 20px;
-  border-radius: px;
+  border-radius: 8px;
   cursor: pointer;
 }
 button:hover {
